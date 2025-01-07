@@ -1,5 +1,5 @@
 # storyflow
-A storychart layout tool for event based systems
+A storychart layout tool for event based systems made in ZIG+Raylib
 
 ## Current state
 Has :
